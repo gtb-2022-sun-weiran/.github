@@ -1,5 +1,7 @@
 # Welcome to Weiran's Org
 
+Hi~ I am WeiRan Sun.
+
 You can see this picture, this is me just Freshman.
 
 <img src="assets/previous.jpg" alt="me-previous" width="70%" />
